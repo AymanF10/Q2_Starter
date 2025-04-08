@@ -1,4 +1,11 @@
-*wallet.json
+*wallet.json 
 node_modules
-target
+.gitignore
+.anchor
 .DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+**/*.rs.bk
