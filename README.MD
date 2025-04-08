@@ -1,4 +1,4 @@
-# Solana Token & NFT Minting Suite: Comprehensive Guide
+# Solana Token & NFT Minting Suite
 
 
 ## Table of Contents
